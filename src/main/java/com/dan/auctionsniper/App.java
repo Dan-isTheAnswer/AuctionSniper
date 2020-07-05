@@ -1,4 +1,4 @@
-package com.dan;
+package com.dan.auctionsniper;
 
 /**
  * Hello world!

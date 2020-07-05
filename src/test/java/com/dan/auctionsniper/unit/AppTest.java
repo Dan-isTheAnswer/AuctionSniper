@@ -1,4 +1,4 @@
-package com.dan;
+package com.dan.auctionsniper.unit;
 
 import static org.junit.Assert.assertTrue;
 
